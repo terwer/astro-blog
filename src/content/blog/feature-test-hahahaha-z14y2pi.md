@@ -16,3 +16,5 @@ keywords: 测试
 ‍
 
 V2 Upd 验证段落（Vitepress）
+
+V2 Upd 验证段落（Astro）
